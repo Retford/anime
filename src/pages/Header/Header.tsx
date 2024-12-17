@@ -47,6 +47,8 @@ export const Header = () => {
     console.log(data);
   };
 
+  // https://myanimelist.p.rapidapi.com/v2/anime/search?q=one%20piece&n=50&score=8&genre=1%2C2
+
   return (
     <>
       <Form {...form}>

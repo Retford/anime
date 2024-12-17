@@ -1,22 +1,15 @@
-import { ModeToggle } from '@/components/theme/ModeToggle';
-import { Link } from 'react-router-dom';
+import { Footer } from './Footer/Footer';
+import { Header } from './Header/Header';
+import { Main } from './Main/Main';
 
 export const MainPage = () => {
   return (
     <>
-      <header>
-        <nav>
-          <ul>
-            <li>
-              <Link to='/'>gaa</Link>
-            </li>
-          </ul>
-        </nav>
-      </header>
-      <main>
-        <ModeToggle />
-      </main>
-      <footer></footer>
+      <div className='grid grid-rows-[auto_1fr_auto] place-content-center h-screen'>
+        <Header />
+        <Main />
+      </div>
+      <Footer />
     </>
   );
 };

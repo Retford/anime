@@ -1,5 +1,5 @@
-import { getEnvVariables } from '@/helpers/getEnvVariables';
 import { useEffect, useState } from 'react';
+import { getEnvVariables } from '@/helpers/getEnvVariables';
 
 interface FetchState<T> {
   data: T | null;

@@ -1,11 +1,5 @@
+import { ThemeProviderState } from '@/types/theme';
 import { createContext } from 'react';
-
-type Theme = 'dark' | 'light' | 'system';
-
-type ThemeProviderState = {
-  theme: Theme;
-  setTheme: (theme: Theme) => void;
-};
 
 const initialState: ThemeProviderState = {
   theme: 'system',

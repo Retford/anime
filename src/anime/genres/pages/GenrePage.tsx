@@ -1,13 +1,16 @@
-import { useFetch } from '@/hooks/useFetch';
+// import { useFetch } from '@/hooks/useFetch';
+import data from '../data/dataGenreAnime.json';
 
-interface Genre {
-  amount: number;
-  id: string;
-  title: string;
-}
+// interface Genre {
+//   amount: number;
+//   id: string;
+//   title: string;
+// }
+
 export const GenrePage = () => {
-  const { data } = useFetch<Genre[]>('anime/genres');
-  console.log({ data });
+  // const { data } = useFetch<Genre[]>('anime/genres');
+  // console.log({ data });
+  console.log(data);
 
   return (
     <>

@@ -1,5 +1,6 @@
+import data from '../data/dataManda.json';
+
 export const MangaPage = () => {
-    return (
-        <div>MangaPage</div>
-    )
-}
+  console.log(data);
+  return <div>MangaPage</div>;
+};

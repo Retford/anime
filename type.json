@@ -1,0 +1,17 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string"
+      },
+      "amount": {
+        "type": "integer"
+      },
+      "id": {
+        "type": "integer"
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title_ov": "Death Note",
+  "title_en": "",
+  "synopsis": "Ryuk, a god of death, drops his Death Note into the human world for personal pleasure. In Japan, prodigious high school student Light Yagami stumbles upon it. Inside the notebook, he finds a chilling message: those whose names are written in it shall die. Its nonsensical nature amuses Light; but when he tests its power by writing the name of a criminal in it, they suddenly meet their demise. \n\r\nRealizing the Death Note's vast potential, Light commences a series of nefarious murders under the pseudonym \"Kira,\" vowing to cleanse the world of corrupt individuals and create a perfect society where crime ceases to exist. However, the police quickly catch on, and they enlist the help of L—a mastermind detective—to uncover the culprit.\n\nDeath Note tells the thrilling tale of Light and L as they clash in a great battle-of-minds, one that will determine the future of the world.\n\r\n[Written by MAL Rewrite]",
+  "alternative_titles": {
+    "japanese": "DEATH NOTE",
+    "english": "Death Note"
+  },
+  "information": {
+    "type": [
+      {
+        "name": "Manga",
+        "url": "https://myanimelist.net/topmanga.php?type=manga"
+      }
+    ],
+    "volumes": "12",
+    "chapters": "108",
+    "status": "Finished",
+    "published": "Dec  1, 2003 to May  15, 2006",
+    "genres": [
+      {
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/manga/genre/37/Supernatural"
+      },
+      {
+        "name": "Suspense",
+        "url": "https://myanimelist.net/manga/genre/45/Suspense"
+      }
+    ],
+    "theme": [
+      {
+        "name": "Psychological",
+        "url": "https://myanimelist.net/manga/genre/40/Psychological"
+      }
+    ],
+    "demographic": [
+      {
+        "name": "Shounen",
+        "url": "https://myanimelist.net/manga/genre/27/Shounen"
+      }
+    ],
+    "serialization": [
+      {
+        "name": "Shounen Jump (Weekly)",
+        "url": "https://myanimelist.net/manga/magazine/83/Shounen_Jump_Weekly"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Obata, Takeshi",
+        "url": "https://myanimelist.net/people/1888/Takeshi_Obata"
+      },
+      {
+        "name": "Ohba, Tsugumi",
+        "url": "https://myanimelist.net/people/2111/Tsugumi_Ohba"
+      }
+    ]
+  },
+  "statistics": {
+    "score": 8.69,
+    "ranked": 54,
+    "popularity": 13,
+    "members": 394145,
+    "favorites": 31989
+  },
+  "characters": [
+    {
+      "name": "Lawliet, L",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/10/249647.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/71/L_Lawliet"
+    },
+    {
+      "name": "Yagami, Light",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/6/63870.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/80/Light_Yagami"
+    },
+    {
+      "name": "Ryuk",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/10/59125.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/75/Ryuk"
+    },
+    {
+      "name": "Amane, Misa",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/5/30971.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/835/Misa_Amane"
+    },
+    {
+      "name": "River, Nate",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/13/77339.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/464/Nate_River"
+    },
+    {
+      "name": "Keehl, Mihael",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/2/31498.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/463/Mihael_Keehl"
+    },
+    {
+      "name": "Matsuda, Touta",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/10/68302.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/1906/Touta_Matsuda"
+    },
+    {
+      "name": "Jeevas, Mail",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/9/42363.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/2730/Mail_Jeevas"
+    },
+    {
+      "name": "Mikami, Teru",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/14/36951.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/1904/Teru_Mikami"
+    },
+    {
+      "name": "Rem",
+      "picture_url": "https://cdn.myanimelist.net/images/characters/10/28562.jpg",
+      "myanimelist_url": "https://myanimelist.net/character/1905/Rem"
+    }
+  ],
+  "picture_url": "https://cdn.myanimelist.net/images/manga/1/258245.jpg"
+}
